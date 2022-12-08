@@ -1,0 +1,17 @@
+﻿Построение начато 02.12.2022 9:15:45.
+     1>Проект "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\в прогрессе\7 лаб\AlgoritmLab7\AlgoritmLab7.vcxproj" в узле 2 (целевые объекты build).
+     1>InitializeBuildStatus:
+         Создание "Debug\AlgoritmLab7.unsuccessfulbuild", так как было задано "AlwaysCreate".
+       ClCompile:
+         Для всех выходных данных обновления не требуется.
+       Link:
+         Для всех выходных данных обновления не требуется.
+         AlgoritmLab7.vcxproj -> H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\в прогрессе\7 лаб\Debug\AlgoritmLab7.exe
+       FinalizeBuildStatus:
+         Файл "Debug\AlgoritmLab7.unsuccessfulbuild" удаляется.
+         Обращение к "Debug\AlgoritmLab7.lastbuildstate".
+     1>Построение проекта "H:\Вартанов Алексей 21ВВ1\2 курс\отчёты\Алгоритмы и т.д\в прогрессе\7 лаб\AlgoritmLab7\AlgoritmLab7.vcxproj" завершено (целевые объекты build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:00.16
